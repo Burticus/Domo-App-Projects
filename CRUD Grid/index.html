@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html>
+  <head>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <table id="layouttbl" class="table1">
+      <tr>
+        <td>
+          <form name ="Sources" onsubmit="return false">
+            
+                <label for "existingsource" >Existing Source</label>
+                <input type="text" id="es" name "existingsource">
+              
+                <label for "maptosource" >Map to Source</label>
+                <input type="text" id="mts" name "maptosource">
+              
+                <button type="submit"  onclick = "onFormSubmit();">Save</button>
+          </form>
+        </td>
+      </tr>
+    </table>
+
+    <table id="lsmtbl" >
+
+    </table>
+
+    <!-- domo.js optional utils -->
+    <script src="domo.js"></script>
+    <script src="app.js"></script>
+    <script src="table.js"></script>
+    <script src="helpers.js"></script>
+  </body>
+</html>

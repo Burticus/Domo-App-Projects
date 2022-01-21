@@ -1,0 +1,17 @@
+{
+  "name": "MyFirstApp",
+  "version": "1.0.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "303d0029-9597-4d7d-9f93-16b5f63acb4d",
+      "alias": "lsmDS",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "f30203ed-5287-4145-9424-b95854b687f2"
+}
