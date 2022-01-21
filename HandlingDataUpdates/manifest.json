@@ -1,0 +1,21 @@
+{
+  "name": "HandlingDataUpdates",
+  "version": "1.0.0",
+  "size": {
+    "width": 4,
+    "height": 2
+  },
+  "mapping": [
+    {
+      "dataSetId": "7de41241-e3ff-4e1b-8c10-a79fe7937f81",
+      "alias": "SampleSales",
+      "fields": [
+        { "alias": "name", "columnName": "Name" },
+        { "alias": "email", "columnName": "Email" },
+        { "alias": "total", "columnName": "Total" }
+      ]
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "a1ecc500-c201-4991-a192-f4e22df506e7"
+}
